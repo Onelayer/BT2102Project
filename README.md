@@ -14,7 +14,7 @@ We used Python Tkinter for our graphical user interface, MySQL for our back-end,
 
 ### Built With
 
-* Tkinter
+* Tkinter, MySQL, MongoDB
 
 
 <!-- GETTING STARTED -->
